@@ -109,3 +109,8 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 //https://github.com/stefanodp91/CircularSeekBar
+ // startForeground(1, notification);
+ //        Intent ringActivityIntent = new Intent(this, RingActivity.class);
+ //        ringActivityIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK); // Add this flag since we're starting an activity from a service
+ //        startActivity(ringActivityIntent);
+ //        return START_STICKY;
